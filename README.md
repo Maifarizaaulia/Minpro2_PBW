@@ -366,7 +366,7 @@ Meskipun website menggunakan PHP, struktur tampilan tetap dibuat menggunakan HTM
 
 - Struktur dasar dokumen
 
-  > <img width="600" height="122" alt="Image" src="https://github.com/user-attachments/assets/d2f6d512-1ca0-4ccc-8460-6fe1da5324d3" />
+  > <img width="600" height="122" alt="Image" src="https://github.com/user-attachments/assets/e7a3ea48-4a04-4ef3-982e-53085702e5cb" />
   >
   > HTML digunakan untuk membentuk struktur dasar sebuah halaman website. Pada bagian ini, elemen seperti <!DOCTYPE html, <html, <head, dan <body berfungsi sebagai kerangka utama. Meta charset digunakan untuk mengatur karakter teks, meta viewport untuk membuat tampilan responsif, dan <title untuk menampilkan judul halaman pada tab browser.
 

@@ -248,7 +248,7 @@ a. **Deskripsi**
 
 b. **Skills**
 
-> <img width="559" height="343" alt="Image" src="https://github.com/user-attachments/assets/16d47327-c65c-4dd5-baca-e15b2baf3d9d" />
+> <img width="542" height="364" alt="Image" src="https://github.com/user-attachments/assets/e429e574-fba2-4d2e-ad57-86c0dee12db1" />
 >
 > Pada bagian Skills, kode berfungsi untuk menampilkan daftar kemampuan beserta levelnya dalam bentuk progress bar. Saya menggunakan v-for untuk melakukan perulangan data skills, sehingga setiap skill di dalam array otomatis ditampilkan tanpa harus menulis ulang struktur HTML. Artinya, kalau saya menambahkan skill baru di data Vue, maka otomatis akan muncul di tampilan.
 >

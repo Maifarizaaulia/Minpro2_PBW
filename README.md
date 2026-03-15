@@ -217,7 +217,7 @@ Kode di section ini berfungsi untuk menampilkan informasi yang lebih detail tent
 
 - Kode Struktur Section About
 
-  > <img width="285" height="56" alt="Image" src="https://github.com/user-attachments/assets/566f30bc-2da7-4a7e-b0ed-17a88a834248" />
+  > <img width="285" height="56" alt="Image" src="https://github.com/user-attachments/assets/790900ca-96a5-4ef2-afd4-60a479dc2ed9" />
   >
   > Pada bagian ini, saya membuat section About menggunakan <section id="about". Saya memberikan id="about" supaya bisa terhubung langsung dengan tombol “About Me” di tampilan Home (Hero) dan juga dari navbar.
   > Class py-5 berasal dari Bootstrap yang berfungsi memberikan padding atas dan bawah agar section ini tidak terlalu rapat dengan section sebelumnya.

@@ -23,25 +23,25 @@ Website ini dibagi menjadi beberapa bagian utama, yaitu Home, About Me, dan Cert
 
 Project ini terdiri dari beberapa file dan folder yang memiliki fungsi masing-masing.
 
-### **index.php**
+### 🔗 **index.php**
 
   <img width="120" height="36" alt="Image" src="https://github.com/user-attachments/assets/56365dc1-ae70-4356-a44b-4ab6618a7c88" />
 
   File ini merupakan file utama yang berfungsi untuk menampilkan seluruh halaman website. Di dalam file ini terdapat struktur halaman seperti Home, About Me, dan Certificates. Selain itu, file ini juga berisi kode PHP yang mengambil data dari database sehingga beberapa bagian website dapat ditampilkan secara dinamis.
 
-### **koneksi.php**
+### 🔗 **koneksi.php**
   
   <img width="130" height="35" alt="Image" src="https://github.com/user-attachments/assets/2868e8b3-4429-4984-8741-92565f699617" />
 
   File ini digunakan untuk membuat koneksi antara website dengan database MySQL. Koneksi ini memungkinkan website mengambil data dari database, seperti data About Me dan Certificates. Dengan adanya file ini, proses pengambilan data dari database menjadi lebih terstruktur dan dapat digunakan kembali di file lain.
 
-### **style.css**
+### 🔗 **style.css**
   
   <img width="125" height="43" alt="Image" src="https://github.com/user-attachments/assets/68073da4-f6fe-4135-89c8-bb412267a390" />
 
   File ini digunakan untuk mengatur tampilan website, seperti warna, font, jarak antar elemen, background, dan efek hover. Dengan menggunakan CSS, tampilan website saya menjadi lebih rapi, menarik, dan konsisten di setiap bagian halaman.
 
-### **assets/**
+### 🔗 **assets/**
   
   <img width="266" height="207" alt="Image" src="https://github.com/user-attachments/assets/14fb2cbd-aa4f-44cc-a5c1-27c18fa41b32" />
 

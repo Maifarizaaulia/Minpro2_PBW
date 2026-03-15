@@ -405,7 +405,7 @@ Tampilan di atas menunjukkan struktur database yang digunakan pada website, yait
 
 CSS digunakan untuk mengatur tampilan visual website agar terlihat lebih rapi, menarik, dan memiliki identitas desain yang konsisten. Jika HTML berfungsi sebagai struktur, maka CSS berperan dalam mempercantik dan mengatur bagaimana struktur tersebut ditampilkan di layar.
 
-<img width="626" height="915" alt="Image" src="https://github.com/user-attachments/assets/aa85fc19-7527-4ca2-9361-e025520a5cd9" />
+<img width="634" height="886" alt="Image" src="https://github.com/user-attachments/assets/012711e9-554b-4ad4-96fc-b23578a6dbd0" />
 
 ---
 

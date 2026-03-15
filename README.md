@@ -88,7 +88,7 @@ Pada project ini, saya menggunakan database MySQL untuk menyimpan data yang akan
 
    Data pada tabel certificates dapat ditambahkan langsung melalui database menggunakan query SQL. Misalnya, jika saya ingin menambahkan sertifikat baru, saya cukup menambahkan baris data baru pada tabel certificates dengan mengisi judul kegiatan, tahun pelaksanaan, dan nama file gambar sertifikat.
 
-
+   > <img width="772" height="823" alt="Image" src="https://github.com/user-attachments/assets/673e57c4-8759-4142-92db-52b8a5dd5b4c" />
 
    Setelah data ditambahkan ke dalam database, sertifikat tersebut akan otomatis muncul pada halaman website karena data diambil langsung dari database menggunakan PHP dan ditampilkan dalam bentuk card.
    

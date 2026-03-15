@@ -435,7 +435,7 @@ Dengan menghubungkan file tersebut, saya dapat menggunakan berbagai class bawaan
 
 - Button
 
-  > <img width="806" height="50" alt="Image" src="https://github.com/user-attachments/assets/7fd9ab07-cfdd-4df1-ba27-a4ce122d49d2" />
+  > <img width="806" height="50" alt="Image" src="https://github.com/user-attachments/assets/861dcdd8-5f63-4312-a44c-fcd6a51782e5" />
   >
   > Bootstrap digunakan untuk membuat tombol dengan class seperti btn, btn-outline-danger, dan btn-sm. Class ini berfungsi untuk memberikan styling tombol secara cepat dan konsisten sesuai tema website.
 

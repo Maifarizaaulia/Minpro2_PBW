@@ -459,7 +459,7 @@ Penggunaan Vue membantu menampilkan daftar skill lebih rapi dan mudah diatur. Na
 
 Vue dihubungkan menggunakan CDN berikut:
 
-<img width="535" height="45" alt="Image" src="https://github.com/user-attachments/assets/3d0c8bbc-d100-4559-b3d2-af42802fd37f" />
+<img width="530" height="39" alt="Image" src="https://github.com/user-attachments/assets/7d6d547b-3982-4164-a8ab-930231bc0c0b" />
 
 Setelah itu, saya membuat instance Vue dengan createApp() yang berisi data skills. Instance ini kemudian di-mount ke elemen dengan id #app, sehingga seluruh bagian di dalam div tersebut dapat menggunakan fitur Vue.
 

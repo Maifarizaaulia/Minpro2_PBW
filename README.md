@@ -331,7 +331,7 @@ Penggunaan sistem dinamis ini membuat pengelolaan data sertifikat menjadi lebih 
 
 Dalam pembuatan website ini, saya menggunakan beberapa teknologi dasar yang telah dipelajari, yaitu PHP, HTML, MySQL, CSS, Bootstrap 5, dan juga Vue Js. 
 
-╰┈➤ **PHP**
+### ╰┈➤ **PHP**
 
 <img width="175" height="63" alt="Image" src="https://github.com/user-attachments/assets/00152774-ebbe-4f0b-acd6-869d6045aa82" />
 
@@ -355,7 +355,7 @@ PHP digunakan untuk mengambil data dari tabel database seperti about dan certifi
   
 ---
 
-╰┈➤ **HTML**
+### ╰┈➤ **HTML**
 
 <img width="250" height="92" alt="Image" src="https://github.com/user-attachments/assets/528f2633-2b89-4430-858a-5cdb9909b6db" />
 
@@ -385,7 +385,7 @@ Meskipun website menggunakan PHP, struktur tampilan tetap dibuat menggunakan HTM
 
 ---
 
-╰┈➤ **MySQL**
+### ╰┈➤ **MySQL**
 
 <img width="272" height="63" alt="Image" src="https://github.com/user-attachments/assets/72c50ba3-1fe0-4677-8aed-60e9cf151274" />
 
@@ -399,7 +399,7 @@ Tampilan di atas menunjukkan struktur database yang digunakan pada website, yait
 
 ---
 
-╰┈➤ **CSS**
+### ╰┈➤ **CSS**
 
 <img width="91" height="30" alt="Image" src="https://github.com/user-attachments/assets/30540849-0cee-4b7e-a521-e987966477db" />
 
@@ -409,7 +409,7 @@ CSS digunakan untuk mengatur tampilan visual website agar terlihat lebih rapi, m
 
 ---
 
-╰┈➤ **Bootstrap 5**
+### ╰┈➤ **Bootstrap 5**
 
 <img width="213" height="52" alt="Image" src="https://github.com/user-attachments/assets/adb4009b-a1f2-4d8c-b041-7e172dfe3440" />
 
@@ -449,7 +449,7 @@ Dengan menghubungkan file tersebut, saya dapat menggunakan berbagai class bawaan
 
 ---
 
-╰┈➤ **Vue JS**
+### ╰┈➤ **Vue JS**
 
 <img width="167" height="57" alt="Image" src="https://github.com/user-attachments/assets/7bc4d127-4876-48d4-aa1a-c4774452f8d4" />
 

@@ -441,7 +441,7 @@ Dengan menghubungkan file tersebut, saya dapat menggunakan berbagai class bawaan
 
 - Card Component
 
-  > <img width="313" height="67" alt="Image" src="https://github.com/user-attachments/assets/e6195946-a696-48f8-8e6c-36a2019d474a" />
+  > <img width="806" height="50" alt="Image" src="https://github.com/user-attachments/assets/449d93d8-5b3e-4a01-b5e8-4ec4abb59961" />
   >
   > Bootstrap digunakan untuk membungkus konten dalam bentuk card menggunakan class seperti card, card-body, dan shadow-sm. Komponen ini berfungsi untuk membuat tampilan konten seperti sertifikat dan deskripsi terlihat lebih terstruktur dan rapi.
 

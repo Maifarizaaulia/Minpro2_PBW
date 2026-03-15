@@ -256,7 +256,7 @@ b. **Skills**
 
 c. **Pengalaman**
 
-> <img width="812" height="288" alt="Image" src="https://github.com/user-attachments/assets/1132d186-82d1-4cbf-afac-d68830761b0c" />
+> <img width="795" height="288" alt="Image" src="https://github.com/user-attachments/assets/00f6a212-19dc-4d3b-be3c-1ce028305082" />
 >
 > Pada bagian Pengalaman, saya menggunakan struktur list <ul dan <li untuk menampilkan daftar kegiatan. Kegunaan kode ini adalah untuk menyusun pengalaman dalam bentuk poin-poin agar lebih ringkas dan mudah dibaca. Struktur list juga lebih tepat secara HTML dibanding menuliskannya dalam satu paragraf panjang. Card Bootstrap tetap digunakan supaya tampilannya konsisten dengan bagian Deskripsi dan Skills.
 

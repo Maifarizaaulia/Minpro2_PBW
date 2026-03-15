@@ -234,7 +234,7 @@ Setelah menampilkan judul dan gambaran singkat tentang diri saya, selanjutnya sa
 
 a. **Deskripsi**
 
-> <img width="503" height="205" alt="Image" src="https://github.com/user-attachments/assets/c69ebb07-8814-45e5-a8b0-2bbf51463c1b" />
+> <img width="503" height="205" alt="Image" src="https://github.com/user-attachments/assets/f3ee5fd5-8331-458c-9a0f-53f40fc246dd" />
 >
 > Pada bagian Deskripsi Diri, saya menggunakan struktur card dari Bootstrap untuk membungkus isi teks agar tampil lebih rapi dan terpisah dari bagian lain. Dengan menggunakan card, informasi deskripsi dapat ditampilkan dengan lebih terstruktur dan mudah dibaca oleh pengunjung website.
 >

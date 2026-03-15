@@ -207,7 +207,7 @@ Kode di section Home ini berfungsi untuk menampilkan identitas saya sebagai pemb
 
 ### **📌 Kode Section About**
 
-<img width="897" height="187" alt="Image" src="https://github.com/user-attachments/assets/c13c7755-578c-4e49-921d-a4d5d2217e21" />
+<img width="897" height="187" alt="Image" src="https://github.com/user-attachments/assets/d99d85d5-f109-420e-be3c-3eb36c04fb1c" />
 
 <Penjelasan:>
 

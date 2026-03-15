@@ -225,7 +225,7 @@ Kode di section ini berfungsi untuk menampilkan informasi yang lebih detail tent
 
 - Kode Judul dan Deskripsi Singkat Section
 
-  > <img width="839" height="96" alt="Image" src="https://github.com/user-attachments/assets/bf6167a1-10d6-4e19-9ede-cfff6b3f56e3" />
+  > <img width="839" height="96" alt="Image" src="https://github.com/user-attachments/assets/57bfb423-cd15-4b39-9193-142a366f1d6f" />
   >
   > Kode ini digunakan untuk membuat judul section dan deskripsi singkat. Saya menggunakan text-center agar teks rata tengah, text-danger untuk warna merah sesuai tema website yang saya mau, dan Class fw-bold membuat judul terlihat lebih tegas.
   > Selain itu, saya menggunakan mb-3 dan mb-5 untuk mengatur jarak antar elemen supaya tampilannya tidak terlalu rapat. Dengan pengaturan ini, judul terlihat lebih menonjol dan berfungsi sebagai pembatas yang jelas antara satu section dengan section lainnya.

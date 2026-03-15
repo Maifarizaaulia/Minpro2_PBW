@@ -451,7 +451,7 @@ Dengan menghubungkan file tersebut, saya dapat menggunakan berbagai class bawaan
 
 ### ᯓ ✈︎ **Vue JS**
 
-<img width="167" height="57" alt="Image" src="https://github.com/user-attachments/assets/7bc4d127-4876-48d4-aa1a-c4774452f8d4" />
+<img width="167" height="57" alt="Image" src="https://github.com/user-attachments/assets/59c94ab6-d553-45f9-bd0a-09400cf05042" />
 
 Vue JS digunakan pada bagian Skills untuk menampilkan data kemampuan secara lebih terstruktur dan dinamis pada tampilan website saya. Data skill disimpan dalam bentuk array di dalam instance Vue, kemudian ditampilkan menggunakan fitur seperti v-for untuk melakukan perulangan dan interpolasi {{ }} untuk menampilkan nilai data ke dalam elemen HTML.
 

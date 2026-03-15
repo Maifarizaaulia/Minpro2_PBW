@@ -423,7 +423,7 @@ Dengan menghubungkan file tersebut, saya dapat menggunakan berbagai class bawaan
 
 - Grid System
 
-  > <img width="510" height="108" alt="Image" src="https://github.com/user-attachments/assets/1dba3e78-da7c-45fb-922a-38c64384861c" />
+  > <img width="510" height="108" alt="Image" src="https://github.com/user-attachments/assets/1e3e9e9e-d5a0-4ca2-be4f-e226fe3aef14" />
   >
   > Bootstrap digunakan untuk mengatur tata letak menggunakan sistem grid seperti container, row, dan col-lg-6. Grid system ini berfungsi untuk membagi tampilan menjadi beberapa kolom yang dapat menyesuaikan ukuran layar. Dengan cara ini, layout tetap responsif tanpa perlu membuat media query manual.
 

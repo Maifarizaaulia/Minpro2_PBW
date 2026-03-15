@@ -417,7 +417,7 @@ Bootstrap 5 digunakan dalam website ini untuk membantu pengaturan layout, strukt
 
 Bootstrap dihubungkan melalui CDN berikut:
 
-<img width="807" height="41" alt="Image" src="https://github.com/user-attachments/assets/7b3e292f-ed00-4c8e-b3b3-bdaa34dd6e2a" />
+<img width="807" height="41" alt="Image" src="https://github.com/user-attachments/assets/dad8b6d1-22b6-4ca4-ac6b-1a235a38ae36" />
 
 Dengan menghubungkan file tersebut, saya dapat menggunakan berbagai class bawaan Bootstrap untuk mempercepat proses pembuatan tampilan.
 

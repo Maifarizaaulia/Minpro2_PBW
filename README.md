@@ -267,7 +267,7 @@ c. **Pengalaman**
 
 ### **📌 Kode Section Certificates**
 
-<img width="912" height="400" alt="Image" src="https://github.com/user-attachments/assets/b411d2ba-4764-4fae-8f59-a72c6e010012" />
+<img width="944" height="436" alt="Image" src="https://github.com/user-attachments/assets/a4a28dcd-4227-4e6a-828a-d52c8c2ed3f0" />
 
 <Penjelasan:>
 

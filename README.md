@@ -429,7 +429,7 @@ Dengan menghubungkan file tersebut, saya dapat menggunakan berbagai class bawaan
 
 - Navbar
 
-  > <img width="369" height="43" alt="Image" src="https://github.com/user-attachments/assets/c94b49dd-fa2f-4009-8ec9-a79dead27770" />
+  > <img width="369" height="43" alt="Image" src="https://github.com/user-attachments/assets/40c9bb16-375f-4a69-8d12-211a3ec697e6" />
   >
   > Bootstrap digunakan untuk membuat navigasi menggunakan class seperti navbar, navbar-expand-lg, dan bg-light. Komponen ini berfungsi untuk menampilkan menu navigasi yang responsif dan otomatis menyesuaikan tampilan di berbagai ukuran layar.
 

@@ -180,7 +180,7 @@ Kode di section Home ini berfungsi untuk menampilkan identitas saya sebagai pemb
 
 - Kode Struktur Section 
 
-  > <img width="325" height="50" alt="Image" src="https://github.com/user-attachments/assets/11689e81-2473-474c-b31d-49adfe8d6f15" />
+  > <img width="325" height="50" alt="Image" src="https://github.com/user-attachments/assets/e07632ba-e0d7-4221-a8d5-5bd59852f087" />
   >
   > Pada bagian Hero, saya membuat struktur utama menggunakan section id="home">. Saya pakai id="home" supaya bisa terhubung langsung dengan navbar. Jadi ketika tombol “Home” ditekan, halaman otomatis scroll ke bagian ini tanpa reload.
 

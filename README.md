@@ -242,7 +242,7 @@ a. **Deskripsi**
 >
 > Di dalam card, saya menggunakan elemen <h5 sebagai judul “Deskripsi Diri”, sedangkan elemen <p digunakan untuk menampilkan isi teks. Berbeda dengan versi statis, pada project ini isi deskripsi ditampilkan secara dinamis menggunakan PHP, yaitu dengan memanggil data dari database menggunakan kode:
 > 
-> <img width="294" height="39" alt="Image" src="https://github.com/user-attachments/assets/8ea5b68a-4f5f-42f0-a30e-9db391614326" />
+> <img width="278" height="42" alt="Image" src="https://github.com/user-attachments/assets/1465ef78-d6bd-42ea-a69a-7c6a54a33eb3" />
 >
 > Kode diatas itu berfungsi untuk mengambil data deskripsi dari tabel about pada database yang sebelumnya sudah dipanggil menggunakan query PHP. Jadi,  isi deskripsi dapat diubah langsung melalui database tanpa perlu mengubah kode HTML pada halaman website.
 

@@ -86,15 +86,15 @@ Pada project ini, saya menggunakan database MySQL untuk menyimpan data yang akan
    
    **Contoh Penambahan Data Sertifikat**
 
-   Data pada tabel certificates dapat ditambahkan langsung melalui database. Misalnya, jika saya ingin menambahkan sertifikat baru, saya cukup menambahkan baris data baru pada tabel certificates dengan mengisi judul kegiatan, tahun pelaksanaan, dan nama file gambar sertifikat.
+   Data pada tabel certificates dapat ditambahkan langsung melalui database menggunakan query SQL. Misalnya, jika saya ingin menambahkan sertifikat baru, saya cukup menambahkan baris data baru pada tabel certificates dengan mengisi judul kegiatan, tahun pelaksanaan, dan nama file gambar sertifikat.
 
 
 
-   Setelah data ditambahkan, sertifikat tersebut akan otomatis muncul pada halaman website karena halaman mengambil data langsung dari database menggunakan PHP dan menampilkannya dalam bentuk card.
-
+   Setelah data ditambahkan ke dalam database, sertifikat tersebut akan otomatis muncul pada halaman website karena data diambil langsung dari database menggunakan PHP dan ditampilkan dalam bentuk card.
+   
 <br><br>
 
-2. Tabel About
+3. Tabel About
   
    **Struktur Query Tabel About**
 
@@ -117,11 +117,9 @@ Pada project ini, saya menggunakan database MySQL untuk menyimpan data yang akan
 
    **Contoh Perubahan Data Deskripsi**
 
-   Pada tabel about, data yang disimpan berupa deskripsi diri yang ditampilkan pada section About Me. Jika ingin mengubah isi deskripsi, saya hanya perlu mengedit data pada kolom deskripsi di database.
+   Pada tabel about, data yang disimpan berupa deskripsi diri yang ditampilkan pada section About Me. Jika ingin mengubah isi deskripsi, saya dapat memperbarui data pada kolom deskripsi menggunakan query SQL di database.
 
-
-
-   Setelah data diperbarui, perubahan tersebut akan langsung tampil pada halaman website tanpa perlu mengubah kode HTML atau PHP.
+   Setelah data diperbarui, perubahan tersebut akan langsung tampil pada halaman website tanpa perlu mengubah kode HTML atau PHP, karena halaman mengambil data langsung dari database.
 
 ---
 

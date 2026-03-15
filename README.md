@@ -198,7 +198,7 @@ Kode di section Home ini berfungsi untuk menampilkan identitas saya sebagai pemb
 
 - Kode Button 
 
-  > <img width="356" height="50" alt="Image" src="https://github.com/user-attachments/assets/59c7711d-4211-4730-9376-f3b4fdbead13" />
+  > <img width="346" height="44" alt="Image" src="https://github.com/user-attachments/assets/b74bbf39-b362-45e7-a2ba-651ddf7decf2" />
   >
   > Untuk gambar, saya menggunakan kode diatas. Lingkaran itu saya buat di CSS menggunakan position: absolute agar terlihat seperti background dekoratif.
   > Kemudian saya tambahkan efek mask gradient di .hero-img supaya bagian bawah foto terlihat lebih halus dan menyatu dengan background.

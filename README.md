@@ -411,7 +411,7 @@ CSS digunakan untuk mengatur tampilan visual website agar terlihat lebih rapi, m
 
 ### ᯓ ✈︎ **Bootstrap 5**
 
-<img width="213" height="52" alt="Image" src="https://github.com/user-attachments/assets/adb4009b-a1f2-4d8c-b041-7e172dfe3440" />
+<img width="213" height="52" alt="Image" src="https://github.com/user-attachments/assets/7c6fd75e-cf8b-47b4-bbba-b694458d89ac" />
 
 Bootstrap 5 digunakan dalam website ini untuk membantu pengaturan layout, struktur grid, serta komponen UI agar tampilan menjadi responsif dan lebih rapi tanpa harus menulis semua styling dari nol.
 

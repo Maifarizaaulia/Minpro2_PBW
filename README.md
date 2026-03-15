@@ -186,7 +186,7 @@ Kode di section Home ini berfungsi untuk menampilkan identitas saya sebagai pemb
 
 - Kode Grid Layout 
 
-  > <img width="330" height="43" alt="Image" src="https://github.com/user-attachments/assets/2e4e747d-4447-4ed7-befb-4f0c7cc6de38" />
+  > <img width="330" height="43" alt="Image" src="https://github.com/user-attachments/assets/6be529cf-4829-4d4a-b5f6-3e0688ac7129" />
   >
   > Saya sengaja pakai sistem grid Bootstrap supaya layout-nya responsif. Jadi di layar besar tampil dua kolom (teks dan gambar berdampingan), tapi kalau di layar kecil otomatis turun jadi satu kolom. Dengan cara ini, saya tidak perlu menulis media query manual.
 

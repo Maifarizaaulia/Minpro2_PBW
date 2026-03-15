@@ -378,7 +378,7 @@ Meskipun website menggunakan PHP, struktur tampilan tetap dibuat menggunakan HTM
 
 - Pembuatan Section
 
-  > <img width="223" height="70" alt="Image" src="https://github.com/user-attachments/assets/ecfa9a28-6ccd-4b40-ad38-cb79c8cc6ae3" />
+  > <img width="223" height="70" alt="Image" src="https://github.com/user-attachments/assets/389c6c19-d9fe-40a3-bf73-1308f7e86f40" />
   >
   > HTML digunakan untuk membagi konten website menjadi beberapa bagian menggunakan elemen <section. Setiap section diberi id agar dapat terhubung dengan menu navigasi melalui anchor link. Dengan cara ini, struktur website menjadi lebih rapi dan terorganisir.
 

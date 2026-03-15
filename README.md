@@ -94,7 +94,7 @@ Pada project ini, saya menggunakan database MySQL untuk menyimpan data yang akan
    
 <br><br>
 
-3. Tabel About
+2. Tabel About
   
    **Struktur Query Tabel About**
 
@@ -118,7 +118,9 @@ Pada project ini, saya menggunakan database MySQL untuk menyimpan data yang akan
    **Contoh Perubahan Data Deskripsi**
 
    Pada tabel about, data yang disimpan berupa deskripsi diri yang ditampilkan pada section About Me. Jika ingin mengubah isi deskripsi, saya dapat memperbarui data pada kolom deskripsi menggunakan query SQL di database.
-
+   
+   > <img width="342" height="537" alt="Image" src="https://github.com/user-attachments/assets/577d19cd-99b6-4a56-9077-a8ac7c8e702a" />
+   
    Setelah data diperbarui, perubahan tersebut akan langsung tampil pada halaman website tanpa perlu mengubah kode HTML atau PHP, karena halaman mengambil data langsung dari database.
 
 ---

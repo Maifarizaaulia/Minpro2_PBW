@@ -463,7 +463,7 @@ Vue dihubungkan menggunakan CDN berikut:
 
 Setelah itu, saya membuat instance Vue dengan createApp() yang berisi data skills. Instance ini kemudian di-mount ke elemen dengan id #app, sehingga seluruh bagian di dalam div tersebut dapat menggunakan fitur Vue.
 
-<img width="549" height="399" alt="Image" src="https://github.com/user-attachments/assets/a54cf317-0560-4db3-b518-b2f85b2fb8b6" />
+<img width="549" height="399" alt="Image" src="https://github.com/user-attachments/assets/7c2631e0-d9a5-4100-8e95-96329d4a31b1" />
 
 ---
 

@@ -401,7 +401,7 @@ Tampilan di atas menunjukkan struktur database yang digunakan pada website, yait
 
 ### ᯓ ✈︎ **CSS**
 
-<img width="91" height="30" alt="Image" src="https://github.com/user-attachments/assets/30540849-0cee-4b7e-a521-e987966477db" />
+<img width="91" height="30" alt="Image" src="https://github.com/user-attachments/assets/64654923-6ada-4f8f-a922-ffb2090aac66" />
 
 CSS digunakan untuk mengatur tampilan visual website agar terlihat lebih rapi, menarik, dan memiliki identitas desain yang konsisten. Jika HTML berfungsi sebagai struktur, maka CSS berperan dalam mempercantik dan mengatur bagaimana struktur tersebut ditampilkan di layar.
 

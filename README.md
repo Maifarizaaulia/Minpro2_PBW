@@ -372,7 +372,7 @@ Meskipun website menggunakan PHP, struktur tampilan tetap dibuat menggunakan HTM
 
 - Pembuatan bagian navigasi
 
-  > <img width="375" height="24" alt="Image" src="https://github.com/user-attachments/assets/cca573ed-150e-40a0-9a1c-c1690c1359b6" />
+  > <img width="375" height="24" alt="Image" src="https://github.com/user-attachments/assets/f6ce09a5-b2c8-4f6c-847e-6edfae76db98" />
   >
   > HTML digunakan untuk membuat struktur navigasi menggunakan elemen <nav. Bagian ini berfungsi untuk menghubungkan antar section seperti Home, About, dan Certificates. Dengan struktur ini, pengguna dapat berpindah ke bagian lain dalam satu halaman dengan lebih mudah.
 

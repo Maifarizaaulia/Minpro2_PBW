@@ -83,8 +83,16 @@ Pada project ini, saya menggunakan database MySQL untuk menyimpan data yang akan
    <img width="492" height="200" alt="Image" src="https://github.com/user-attachments/assets/7740f144-81d5-4e99-8740-d0ae4db6335f" />
 
    Tabel certificates digunakan untuk menyimpan data sertifikat yang ditampilkan pada section Certificates. Di dalam tabel ini terdapat informasi seperti judul kegiatan, tahun pelaksanaan, serta nama file gambar sertifikat. Data tersebut kemudian diambil menggunakan PHP melalui query SQL dan ditampilkan pada halaman website dalam bentuk card.
+   
+   **Contoh Penambahan Data Sertifikat**
 
-<br>
+   Data pada tabel certificates dapat ditambahkan langsung melalui database. Misalnya, jika saya ingin menambahkan sertifikat baru, saya cukup menambahkan baris data baru pada tabel certificates dengan mengisi judul kegiatan, tahun pelaksanaan, dan nama file gambar sertifikat.
+
+
+
+   Setelah data ditambahkan, sertifikat tersebut akan otomatis muncul pada halaman website karena halaman mengambil data langsung dari database menggunakan PHP dan menampilkannya dalam bentuk card.
+
+<br><br>
 
 2. Tabel About
   
@@ -106,6 +114,14 @@ Pada project ini, saya menggunakan database MySQL untuk menyimpan data yang akan
    <img width="333" height="51" alt="Image" src="https://github.com/user-attachments/assets/b0498734-2ef5-4e3f-bcbb-0bf52740371c" />
 
    Tabel about digunakan untuk menyimpan deskripsi diri yang ditampilkan pada section About Me. Isi deskripsi yang tersimpan di database kemudian dipanggil menggunakan PHP dan ditampilkan langsung pada halaman website.
+
+   **Contoh Perubahan Data Deskripsi**
+
+   Pada tabel about, data yang disimpan berupa deskripsi diri yang ditampilkan pada section About Me. Jika ingin mengubah isi deskripsi, saya hanya perlu mengedit data pada kolom deskripsi di database.
+
+
+
+   Setelah data diperbarui, perubahan tersebut akan langsung tampil pada halaman website tanpa perlu mengubah kode HTML atau PHP.
 
 ---
 

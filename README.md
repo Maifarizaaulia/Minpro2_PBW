@@ -192,7 +192,7 @@ Kode di section Home ini berfungsi untuk menampilkan identitas saya sebagai pemb
 
 - Kode Heading 
 
-  > <img width="502" height="36" alt="Image" src="https://github.com/user-attachments/assets/0a9fd857-eb36-49b9-ac06-70a881da08f6" />
+  > <img width="488" height="25" alt="Image" src="https://github.com/user-attachments/assets/fed766b0-30ee-450c-8fba-fc1ce4f8a8c0" />
   >
   > Saya menggunakan button class btn dari Bootstrap untuk styling dasar, lalu saya kombinasikan dengan CSS sendiri agar warnanya sesuai tema pink yang saya gunakan.
 

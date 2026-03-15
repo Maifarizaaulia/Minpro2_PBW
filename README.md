@@ -61,11 +61,11 @@ Project ini terdiri dari beberapa file dan folder yang memiliki fungsi masing-ma
 
 Pada project ini, saya menggunakan database MySQL untuk menyimpan data yang akan ditampilkan di website. Database yang digunakan bernama portfolio dan terdiri dari dua tabel utama, yaitu certificates dan about.
 
-1. Tabel Certificates
-  
-   **Struktur Query Tabel Certificates**
+### ᯓ★ Tabel Certificates
 
-   ```
+**Struktur Query Tabel Certificates**
+
+  ```
     ┌──────────────────────────────────────────────────────────────┐
     │             Query Struktur Tabel certificates                │
     ├──────────────────────────────────────────────────────────────┤
@@ -76,29 +76,28 @@ Pada project ini, saya menggunakan database MySQL untuk menyimpan data yang akan
     │     gambar VARCHAR(255)                                      │
     │ );                                                           │
     └──────────────────────────────────────────────────────────────┘
-   ```
+ ```
+**Tampilan Data Tabel**
 
-   **Tampilan Data Tabel**
+<img width="492" height="200" alt="Image" src="https://github.com/user-attachments/assets/7740f144-81d5-4e99-8740-d0ae4db6335f" />
 
-   <img width="492" height="200" alt="Image" src="https://github.com/user-attachments/assets/7740f144-81d5-4e99-8740-d0ae4db6335f" />
-
-   Tabel certificates digunakan untuk menyimpan data sertifikat yang ditampilkan pada section Certificates. Di dalam tabel ini terdapat informasi seperti judul kegiatan, tahun pelaksanaan, serta nama file gambar sertifikat. Data tersebut kemudian diambil menggunakan PHP melalui query SQL dan ditampilkan pada halaman website dalam bentuk card.
+Tabel certificates digunakan untuk menyimpan data sertifikat yang ditampilkan pada section Certificates. Di dalam tabel ini terdapat informasi seperti judul kegiatan, tahun pelaksanaan, serta nama file gambar sertifikat. Data tersebut kemudian diambil menggunakan PHP melalui query SQL dan ditampilkan pada halaman website dalam bentuk card.
    
-   **Contoh Penambahan Data Sertifikat**
+**Contoh Penambahan Data Sertifikat**
 
-   Data pada tabel certificates dapat ditambahkan langsung melalui database menggunakan query SQL. Misalnya, jika saya ingin menambahkan sertifikat baru, saya cukup menambahkan baris data baru pada tabel certificates dengan mengisi judul kegiatan, tahun pelaksanaan, dan nama file gambar sertifikat.
+Data pada tabel certificates dapat ditambahkan langsung melalui database menggunakan query SQL. Misalnya, jika saya ingin menambahkan sertifikat baru, saya cukup menambahkan baris data baru pada tabel certificates dengan mengisi judul kegiatan, tahun pelaksanaan, dan nama file gambar sertifikat.
 
-   > <img width="772" height="823" alt="Image" src="https://github.com/user-attachments/assets/673e57c4-8759-4142-92db-52b8a5dd5b4c" />
+> <img width="772" height="823" alt="Image" src="https://github.com/user-attachments/assets/673e57c4-8759-4142-92db-52b8a5dd5b4c" />
 
-   Setelah data ditambahkan ke dalam database, sertifikat tersebut akan otomatis muncul pada halaman website karena data diambil langsung dari database menggunakan PHP dan ditampilkan dalam bentuk card.
+Setelah data ditambahkan ke dalam database, sertifikat tersebut akan otomatis muncul pada halaman website karena data diambil langsung dari database menggunakan PHP dan ditampilkan dalam bentuk card.
    
-<br><br>
+---
 
-2. Tabel About
+### ᯓ★ Tabel About
   
-   **Struktur Query Tabel About**
+**Struktur Query Tabel About**
 
-   ```
+```
     ┌──────────────────────────────────────────────────────────────┐
     │                Query Struktur Tabel about                    │
     ├──────────────────────────────────────────────────────────────┤
@@ -107,21 +106,21 @@ Pada project ini, saya menggunakan database MySQL untuk menyimpan data yang akan
     │     deskripsi TEXT                                           │
     │ );                                                           │
     └──────────────────────────────────────────────────────────────┘
-    ```
+```
 
-   **Tampilan Data Tabel**
+**Tampilan Data Tabel**
 
-   <img width="333" height="51" alt="Image" src="https://github.com/user-attachments/assets/b0498734-2ef5-4e3f-bcbb-0bf52740371c" />
+<img width="333" height="51" alt="Image" src="https://github.com/user-attachments/assets/b0498734-2ef5-4e3f-bcbb-0bf52740371c" />
 
-   Tabel about digunakan untuk menyimpan deskripsi diri yang ditampilkan pada section About Me. Isi deskripsi yang tersimpan di database kemudian dipanggil menggunakan PHP dan ditampilkan langsung pada halaman website.
+Tabel about digunakan untuk menyimpan deskripsi diri yang ditampilkan pada section About Me. Isi deskripsi yang tersimpan di database kemudian dipanggil menggunakan PHP dan ditampilkan langsung pada halaman website.
 
-   **Contoh Perubahan Data Deskripsi**
+**Contoh Perubahan Data Deskripsi**
 
-   Pada tabel about, data yang disimpan berupa deskripsi diri yang ditampilkan pada section About Me. Jika ingin mengubah isi deskripsi, saya dapat memperbarui data pada kolom deskripsi menggunakan query SQL di database.
+Pada tabel about, data yang disimpan berupa deskripsi diri yang ditampilkan pada section About Me. Jika ingin mengubah isi deskripsi, saya dapat memperbarui data pada kolom deskripsi menggunakan query SQL di database.
    
-   > <img width="342" height="537" alt="Image" src="https://github.com/user-attachments/assets/577d19cd-99b6-4a56-9077-a8ac7c8e702a" />
+> <img width="342" height="537" alt="Image" src="https://github.com/user-attachments/assets/577d19cd-99b6-4a56-9077-a8ac7c8e702a" />
    
-   Setelah data diperbarui, perubahan tersebut akan langsung tampil pada halaman website tanpa perlu mengubah kode HTML atau PHP, karena halaman mengambil data langsung dari database.
+Setelah data diperbarui, perubahan tersebut akan langsung tampil pada halaman website tanpa perlu mengubah kode HTML atau PHP, karena halaman mengambil data langsung dari database.
 
 ---
 

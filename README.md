@@ -1,5 +1,5 @@
 
-<h2 align="center">Portofolio Website</h2>
+<h1 align="center">Portofolio Website</h2>
 
 <p align="center"><em>Maifariza Aulia Dyas - Sistem Informasi Universitas Mulawarman.</em></p>
 
@@ -17,7 +17,7 @@ Website ini dibagi menjadi beberapa bagian utama, yaitu Home, About Me, dan Cert
 
 ---
 
-## 📱 Pemrograman Web Portofolio
+## Pemrograman Web Portofolio
 
 Repository materi **Pemrograman Web** — Program Studi Sistem Informasi.
 

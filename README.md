@@ -3,7 +3,7 @@
 
 <p align="center"><em>Maifariza Aulia Dyas - Sistem Informasi Universitas Mulawarman.</em></p>
 
-## Disusun Oleh 
+**Disusun Oleh**
 
 | **Nama**                     | **NIM**     | **Kelas**            |
 |------------------------------|------------|-------------------|
@@ -14,6 +14,21 @@
 Project ini adalah website portfolio sederhana yang dibuat menggunakan PHP, HTML, MySQL, CSS, Bootstrap 5, dan Vue JS. Website ini berisi informasi tentang diri saya, seperti perkenalan singkat, deskripsi diri, daftar kemampuan (skills), pengalaman, serta sertifikat yang pernah saya dapatkan.
 
 Website ini dibagi menjadi beberapa bagian utama, yaitu Home, About Me, dan Certificates. Tampilan website dibuat responsif menggunakan Bootstrap 5 agar nyaman dilihat di berbagai ukuran layar. Selain itu, website ini juga menggunakan database MySQL untuk menyimpan data seperti deskripsi diri dan daftar sertifikat sehingga informasi dapat ditampilkan secara dinamis. Pada bagian Skills, saya menggunakan Vue JS untuk menampilkan data kemampuan dengan lebih terstruktur.
+
+---
+
+## 📱 Pemrograman Web Portofolio
+
+Repository materi **Pemrograman Web** — Program Studi Sistem Informasi.
+
+[![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php\&logoColor=white)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?logo=mysql\&logoColor=white)](https://www.mysql.com/)
+[![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?logo=vue.js\&logoColor=white)](https://vuejs.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap\&logoColor=white)](https://getbootstrap.com/)
+
+
 
 ---
 

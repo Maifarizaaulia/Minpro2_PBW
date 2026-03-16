@@ -87,6 +87,16 @@ Tabel certificates digunakan untuk menyimpan data sertifikat yang ditampilkan pa
 
 Data pada tabel certificates dapat ditambahkan langsung melalui database menggunakan query SQL. Misalnya, jika saya ingin menambahkan sertifikat baru, saya cukup menambahkan baris data baru pada tabel certificates dengan mengisi judul kegiatan, tahun pelaksanaan, dan nama file gambar sertifikat.
 
+```
+┌──────────────────────────────────────────────┐
+│     Query Penambahan Data certificates       │
+├──────────────────────────────────────────────┤
+│ INSERT INTO certificates (judul, tahun,      │
+│ gambar) VALUES ('Webinar Cyber Security',    │
+│ '2024', 'Cyber Security.png');               │
+└──────────────────────────────────────────────┘
+```
+
 > <img width="772" height="823" alt="Image" src="https://github.com/user-attachments/assets/673e57c4-8759-4142-92db-52b8a5dd5b4c" />
 
 Setelah data ditambahkan ke dalam database, sertifikat tersebut akan otomatis muncul pada halaman website karena data diambil langsung dari database menggunakan PHP dan ditampilkan dalam bentuk card.
@@ -117,6 +127,18 @@ Tabel about digunakan untuk menyimpan deskripsi diri yang ditampilkan pada secti
 **Contoh Perubahan Data Deskripsi**
 
 Pada tabel about, data yang disimpan berupa deskripsi diri yang ditampilkan pada section About Me. Jika ingin mengubah isi deskripsi, saya dapat memperbarui data pada kolom deskripsi menggunakan query SQL di database.
+
+```
+┌──────────────────────────────────────────────┐
+│        Query Perubahan Data about            │
+├──────────────────────────────────────────────┤
+│ UPDATE about                                 │
+│ SET deskripsi = 'Mahasiswa Sistem Informasi  │
+│ yang tertarik pada pengembangan website dan  │
+│ terus belajar membuat tampilan responsif.'   │
+│ WHERE id = 1;                                │
+└──────────────────────────────────────────────┘
+```
    
 > <img width="342" height="537" alt="Image" src="https://github.com/user-attachments/assets/577d19cd-99b6-4a56-9077-a8ac7c8e702a" />
    

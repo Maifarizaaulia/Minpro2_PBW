@@ -3,6 +3,12 @@
 
 <p align="center"><em>Maifariza Aulia Dyas - Sistem Informasi Universitas Mulawarman.</em></p>
 
+<p align="center">
+<img width="1536" height="590" alt="MEPAAA" src="https://github.com/user-attachments/assets/5f8b6b28-23e6-4e78-b535-345caa918d6a" />
+</p>
+
+
+
 **Disusun Oleh**
 
 | **Nama**                     | **NIM**     | **Kelas**            |
